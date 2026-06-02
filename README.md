@@ -32,7 +32,8 @@ Due to distinct software modeling constraints and real-world physical requiremen
 │   ├── Random_Forest_Model.h                     # Exported C++ Edge AI model weights/parameters 
 │   └── ESP32_Physical_Hardware_Firmware.ino      # Production firmware for bench hardware & Blynk IoT
 │
-└── media/                                        # 19 Chronological project timeline images (Phases 1-3)```
+└── media/                                        # 19 Chronological project timeline images (Phases 1-3)
+```
 
 ## Interactive Deployment Links
 - **Live Digital & Edge AI Simulation:** Access and interact with the firmware execution and ESP32 microcontroller operations directly via the web portal: [Live Wokwi Workspace Simulation](https://wokwi.com/projects/465710383710910465)
